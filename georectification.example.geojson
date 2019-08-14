@@ -85,6 +85,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           562,
           866
@@ -101,6 +102,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           568,
           751
@@ -117,6 +119,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           491,
           941
@@ -133,6 +136,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           557,
           1053
@@ -149,6 +153,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           543,
           1018
@@ -165,6 +170,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           553,
           1011
@@ -181,6 +187,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           396,
           1020
@@ -197,6 +204,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           413,
           1101
@@ -213,6 +221,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           439,
           1089
@@ -229,6 +238,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           405,
           1127
@@ -245,6 +255,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           371,
           1106
@@ -261,6 +272,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           472,
           1217
@@ -277,6 +289,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           639,
           1230
@@ -293,6 +306,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           592,
           1266
@@ -309,6 +323,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           641,
           1325
@@ -325,6 +340,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           807,
           1262
@@ -341,6 +357,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           694,
           1348
@@ -357,6 +374,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           711,
           1335
@@ -373,6 +391,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           700,
           1298
@@ -389,6 +408,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           349,
           1489
@@ -405,6 +425,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           484,
           1492
@@ -421,6 +442,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           443,
           1437
@@ -437,6 +459,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           407,
           1620
@@ -453,6 +476,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           413,
           1706
@@ -469,6 +493,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           346,
           1697
@@ -485,6 +510,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           552,
           1674
@@ -501,6 +527,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           603,
           1646
@@ -517,6 +544,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           444,
           1995
@@ -533,6 +561,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           781,
           1934
@@ -549,6 +578,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           774,
           1789
@@ -565,6 +595,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           715,
           1722
@@ -581,6 +612,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           916,
           1735
@@ -597,6 +629,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           1075,
           1717
@@ -613,6 +646,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           1008,
           1602
@@ -629,6 +663,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           775,
           1586
@@ -645,6 +680,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           1034,
           1502
@@ -661,6 +697,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           1062,
           1409
@@ -677,6 +714,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           963,
           1441
@@ -693,6 +731,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           863,
           1457
@@ -709,6 +748,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           936,
           1295
@@ -725,6 +765,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           1038,
           1294
@@ -741,6 +782,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           1095,
           1288
@@ -757,6 +799,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           881,
           1082
@@ -773,6 +816,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           1067,
           1093
@@ -789,6 +833,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           1006,
           1177
@@ -805,6 +850,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           769,
           1158
@@ -821,6 +867,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           1079,
           1011
@@ -837,6 +884,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           1153,
           964
@@ -853,6 +901,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           877,
           932
@@ -869,6 +918,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           949,
           814
@@ -885,6 +935,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           964,
           884
@@ -901,6 +952,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           860,
           758
@@ -917,6 +969,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           941,
           753
@@ -933,6 +986,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           707,
           662
@@ -949,6 +1003,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           1052,
           698
@@ -965,6 +1020,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           835,
           542
@@ -981,6 +1037,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           572,
           598
@@ -997,6 +1054,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           606,
           495
@@ -1013,6 +1071,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           327,
           668
@@ -1029,6 +1088,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           258,
           722
@@ -1045,6 +1105,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           150,
           615
@@ -1061,6 +1122,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           109,
           363
@@ -1077,6 +1139,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           427,
           358
@@ -1093,6 +1156,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "gcp",
         "pixel": [
           452,
           1142
