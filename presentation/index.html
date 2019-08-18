@@ -16,27 +16,15 @@
     <div class="reveal">
       <div class="slides">
 
-        <!-- Finding maps on Wikimedia Commons (and other websites) -->
+        <section data-background="stockholm_center_1870.jpg">
+          <h1 style="color: rgb(16, 255, 96); text-shadow: 0 0 7px black;">Maps! Maps! Maps!</h1>
+          <h3 style="color: white; text-shadow: 0 0 7px black;">Making it easier to discover (historical) maps in Wikimedia Commons</h3>
+          <h5 style="color: white; text-shadow: 0 0 7px black;">(And on other websites)</h5>
+        </section>
 
-        <!-- <section>
-          <h1>Historische Cartografie, Bouwdossiers, Datapunt & ’t Stadsarchief</h1>
-        </section> -->
-
-        <!-- <section>
-          <h2>IIIF Image Server</h2>
-          <h6>International Image Interoperability Framework</h6>
-        </section> -->
-
-        <!-- <section data-background-iframe="https://iiif.io/" data-background-interactive>
-        </section> -->
-
-        <!-- <section data-background="../assets/bouwdossier-SU10089302_00001.jpg">
-          <h3>
-            IIIF is geschikt voor het uniform beschikbaar maken van afbeeldingen (bijvoorbeeld bouwdossiers met bouwtekeningen)
-          </h3>
-        </section> -->
-
-
+        <section>
+          <img src="commons-maps.png" />
+        </section>
 
         <section>
           <img src="commons-georeferenced.png" />
@@ -58,28 +46,76 @@
           <img src="maps-by-decade-large.gif" />
         </section>
 
-        <!-- What do we need? -->
+        <section>
+          <h2>What do we need?</h2>
 
-        <!-- Georeferencing / georectifying:
-        placing a scanned map in the world
-        MOVE TO TOP?!?!?!
+          <p>Store georectification metadata in Commons/Wikidata:</p>
 
+          <ol>
+            <li>mapping between pixels and latitude/longitude coordinates;</li>
+            <li>pixel mask;</li>
+            <li>Then, we can compute geospatial polygon of area depicted on map!</li>
+          </ol>
+        </section>
 
-        1. mapping between pixels and geospatial coordinates (latitude/longitude)
-        2. pixel mask
-        EXAMPLE IMAGES
+        <section>
+          <img src="map-warper.gif" />
+        </section>
 
-        then, software can transform the map, and compute geospatial polygon
-        EXAMPLE IMAGE
+        <section>
+          <h2>Many maps on Commons have been georectified with Wikimaps Warper</h2>
+          <p>(or on other websites, such as David Rumsey or NYPL)</p>
+        </section>
 
-        on commons:
-        2 tabular files, GCPs and mask
-        then we can compute: 1 map file -->
+        <section>
+          <img src="commons-georectified-map-data.gif" />
+        </section>
 
+        <section>
+          <h2>What did we do? (1/2)</h2>
 
+          <p>We worked with 4 large repositories of maps:</p>
 
+          <ul>
+            <li><strong>Wikimedia Commons</strong>: lots of maps, some of them georectified with Wikimaps Warper;</li>
+            <li><strong>Library of Congres</strong>: 5 million maps, more than 100,000 in Commons;</li>
+            <li><strong>David Rumsey/Stanford</strong>: more than 40,000 georeferenced maps, thousands of them in Commons;</li>
+            <li><strong>New York Public Library</strong>: 100,000s maps, many of them georectified, and many of them in Commons.</li>
+          </ul>
+        </section>
 
+        <section>
+          <h2>What did we do? (2/2)</h2>
+          <ul>
+            <li>Data specification (for Commons and outside of Commons)</li>
+            <li>Prototype microservice to georectify maps using this data specification;</li>
+            <li>Property proposals for WikiData;</li>
+            <li>Identified overlapping maps between map repositories.</li>
+          </ul>
+        </section>
 
+        <section>
+          <a href="https://www.wikidata.org/wiki/Wikidata:Property_proposal/georeferencing_data">
+            <img src="property-proposals.png" />
+          </a>
+        </section>
+
+        <section>
+          <h2>What's next:</h2>
+          <ul>
+            <li>get property proposals approved;</li>
+            <li>create a WMF Labs microservice that georectifies maps, based on those properties;</li>
+            <li>create WikiData items for all LOC maps in Commons (based on LOC metadata);</li>
+            <li>Identify overlapping maps, and get georectification data into Commons/WikiData.</li>
+          </ul>
+        </section>
+
+        <section>
+          <h1>Thanks!</h1>
+          <p>This was a project by <strong>Bert Spaan</strong>, <strong>Matt Miller</strong> and <strong>James Heald</strong>, with help from <strong>Albin Larsson</strong>.</p>
+
+          <p>See GitHub for details and links: <a href="https://github.com/bertspaan/wikimania-hackathon-2019">github.com/bertspaan/wikimania-hackathon-2019</a>.</p>
+        </section>
 
       </div>
     </div>

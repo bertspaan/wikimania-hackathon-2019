@@ -7,6 +7,7 @@ See [this Phabricator task](https://phabricator.wikimedia.org/T227036) for more 
 - JSON specification: https://github.com/bertspaan/georectify-json-spec
 - Georectify web service: https://github.com/bertspaan/georectify-service
 - Presentation: https://bertspaan.nl/wikimania-hackathon-2019/presentation
+- Property proposal: https://www.wikidata.org/wiki/Wikidata:Property_proposal/georeferencing_data
 - Example map + data:
     - Map image: https://commons.wikimedia.org/wiki/File:Pigot_and_Co_(1842)_p2.138_-_Map_of_Lancashire.jpg
     - GCPs: https://commons.wikimedia.org/wiki/Data:Pigot_and_Co_(1842)_p2.138_-_Map_of_Lancashire.gcps.tab
